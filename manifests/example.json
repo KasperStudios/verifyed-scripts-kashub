@@ -1,1 +1,9 @@
-
+{
+  "name": "example script",
+  "description": "Write a 'hello world!' in chat for player",
+  "author": "kasperenok",
+  "version": "1.0.0",
+  "script_file": "example.kh",
+  "category": "utility",
+  "min_mod_version": "0.8.0"
+}
