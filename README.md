@@ -38,11 +38,11 @@ Your JSON file in `manifests/` must follow this structure:
 
 ```
 {
-  "name": "Auto Miner",
-  "description": "Automatically mines blocks in a straight line.",
-  "author": "YourNickname",
+  "name": "example script",
+  "description": "Write a 'hello world!' in chat for player",
+  "author": "kasperenok",
   "version": "1.0.0",
-  "script_file": "auto_miner_v1.kh",
+  "script_file": "example.kh",
   "category": "utility",
   "min_mod_version": "0.8.0"
 }
